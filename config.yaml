@@ -8,11 +8,8 @@ params:
     title: Walker Kehoe
     has_nav: true
   footer:
-    content: "&copy; Stackbit-Exto. All rights reserved."
-    links:
-    - text: Made with Stackbit
-      url: https://www.stackbit.com
-      new_window: true
+    content: "&copy; Walker Kehoe. All rights reserved."
+    links: []
     has_social: true
 disableKinds:
 - RSS
