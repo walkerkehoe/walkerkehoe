@@ -2,10 +2,10 @@
 title: Stackbit Exto Theme
 baseURL: "/"
 params:
-  color_scheme: dark
+  color_scheme: light
   accent_color: blue
   header:
-    title: Exto
+    title: Walker Kehoe
     has_nav: true
   footer:
     content: "&copy; Stackbit-Exto. All rights reserved."
