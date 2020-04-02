@@ -1,10 +1,10 @@
 ---
-title: Portfolio
-subtitle: This is an optional subtitle for the portfolio page.
+title: Projects
+subtitle: Stuff I've worked on.
 layout_style: mosaic
+layout: portfolio
 menu:
   main:
-    name: Portfolio
     weight: 2
-layout: portfolio
+
 ---
