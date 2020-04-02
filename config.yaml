@@ -16,3 +16,7 @@ disableKinds:
 - RSS
 - taxonomy
 - taxonomyTerm
+menu:
+  main:
+  - name: Resumé
+    weight: 5
