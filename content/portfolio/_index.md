@@ -1,6 +1,6 @@
 ---
 title: Projects
-subtitle: Stuff I've worked on.
+subtitle: ''
 layout_style: mosaic
 layout: portfolio
 menu:
