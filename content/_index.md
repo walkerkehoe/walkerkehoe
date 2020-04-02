@@ -10,7 +10,7 @@ sections:
     is one to three sentences, but can be changed as you prefer.
 - type: portfolioblock
   template: portfolioblock
-  title: Recent Work
+  title: Projects
   section_id: latest-projects
   component: portfolio_block.html
   subtitle: An optional subtitle of the section
