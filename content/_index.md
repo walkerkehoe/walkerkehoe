@@ -13,7 +13,7 @@ sections:
   title: Projects
   section_id: latest-projects
   component: portfolio_block.html
-  subtitle: An optional subtitle of the section
+  subtitle: ''
   layout_style: mosaic
   num_projects_displayed: 6
   view_all_text: View All
