@@ -24,4 +24,5 @@ fields:
   config:
     required: true
 pages:
+- content/projects/satellite.md
 - content/style-guide.md
