@@ -33,7 +33,6 @@ fields:
   config:
     required: true
 pages:
-- content/projects/project-1.md
 - content/projects/project-2.md
 - content/projects/project-3.md
 - content/projects/project-4.md
