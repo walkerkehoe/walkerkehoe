@@ -25,4 +25,5 @@ fields:
     required: true
 pages:
 - content/projects/satellite.md
+- content/projects/social-performance-dashboard-1.md
 - content/style-guide.md
