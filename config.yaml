@@ -7,7 +7,7 @@ params:
   header:
     title: Walker Kehoe
     has_nav: true
-    logo_img: "/images/IMG_0525.jpg"
+    logo_img: ''
   footer:
     content: "&copy; Walker Kehoe. All rights reserved."
     links: []
