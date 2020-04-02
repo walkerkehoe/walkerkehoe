@@ -34,3 +34,4 @@ fields:
     required: true
 pages:
 - content/projects/satellite-1.md
+- content/projects/social-performance-dashboard.md
