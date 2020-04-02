@@ -7,3 +7,4 @@ thumb_img_path = "/images/Screen Shot 2020-04-02 at 9.41.32 AM.png"
 title = "Social Performance Dashboard"
 
 +++
+[here](https://walkerkehoe.shinyapps.io/socialperformance/)
