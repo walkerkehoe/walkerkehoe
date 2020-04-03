@@ -4,7 +4,7 @@ date = 2019-06-01T07:00:00Z
 layout = "project"
 subtitle = ""
 thumb_img_path = "/images/Screen Shot 2020-04-02 at 9.41.32 AM.png"
-title = "Social Performance Dashboard"
+title = "NGO Social Performance Dashboard"
 
 +++
 [here](https://walkerkehoe.shinyapps.io/socialperformance/)
