@@ -6,8 +6,8 @@ sections:
   title: Hi, I'm Stackbit Exto Portfolio Theme.
   section_id: hero
   component: hero_block.html
-  content: "![](/images/IMG_0525.jpg)This section can contain a subtitle or tagline.
-    The recommended length is one to three sentences, but can be changed as you prefer."
+  content: This section can contain a subtitle or tagline. The recommended length
+    is one to three sentences, but can be changed as you prefer.
 - type: portfolioblock
   template: portfolioblock
   title: Projects
