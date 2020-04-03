@@ -3,7 +3,7 @@ title: Stackbit Exto Theme
 baseURL: "/"
 params:
   color_scheme: light
-  accent_color: pink
+  accent_color: blue
   header:
     title: Walker Kehoe
     has_nav: true
@@ -16,10 +16,3 @@ disableKinds:
 - RSS
 - taxonomy
 - taxonomyTerm
-menu:
-  main:
-  - url: https://www.linkedin.com/in/walkerkehoe/
-    name: LinkedIn
-    weight: 6
-  - name: Resumé
-    weight: 5
