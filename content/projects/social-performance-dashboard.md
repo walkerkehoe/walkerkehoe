@@ -23,8 +23,8 @@ As a bank, they were good at tracking financial performance, using measures like
 
 ### Telling the Story
 
-Since 
+Since the data was 
 
 ### Key Features
 
-The organization wanted a dashboard that would update automatically and could be used by everyone from field officers to the managing director. Given these requirements, I decided to build the tool in R Shiny 
+The organization wanted a dashboard that would update automatically and could be used by everyone from field officers to the managing director. They also wanted something that would be inexpensive to maintain. Given these requirements, I decided to build the tool in R Shiny
