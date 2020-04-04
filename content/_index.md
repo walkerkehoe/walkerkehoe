@@ -28,15 +28,6 @@ sections:
   actions:
   - label: View Blog
     url: blog/index.html
-- template: contentblock
-  component: content_block.html
-  type: contentblock
-  title: Hi, I'm Walker.
-  image: "/images/Presentation1.png"
-  section_id: ''
-  subtitle: ''
-  content: ''
-  actions: []
 layout: home
 menu:
   main:
