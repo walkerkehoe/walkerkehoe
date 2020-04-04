@@ -6,10 +6,9 @@ sections:
   title: Hi, I'm Walker.
   section_id: hero
   component: hero_block.html
-  content: 'I''m a well-rounded engineer currently pursuing a Master''s in Aeronautics
-    & Astronautics at Stanford. I spent the year before volunteering at a nonprofit
-    in South Africa. Before that I worked in consulting building machine learning
-    algorithms. '
+  content: I'm a well-rounded engineer currently pursuing a Master's in Aeronautics
+    & Astronautics. I spent the year before volunteering at a nonprofit in South Africa.
+    Before that I worked in consulting building machine learning algorithms.
 - type: portfolioblock
   template: portfolioblock
   title: Projects
