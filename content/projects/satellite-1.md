@@ -7,4 +7,4 @@ thumb_img_path = "/images/IMG_4840.JPG"
 title = "PyCubed-1"
 
 +++
-The PyCubed-1 is a satellite I built while at Stanford that, when launched in Q4 2020, will be the smallest ever spacecraft with three axis attitude determination and control. Full documentation can be found [here](https://github.com/spacecraft-design-lab-2019) on the project's GitHub page.
+The PyCubed-1 is a satellite I built while at Stanford that, when launched in Q4 2020, will be the smallest ever spacecraft with three axis attitude determination and control. Full documentation can be found [here](https://github.com/spacecraft-design-lab-2019) on the project's GitHub page. The satellite is pictured in its custom vibration testing fixture.
