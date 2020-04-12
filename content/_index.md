@@ -6,8 +6,8 @@ sections:
   title: Hi, I'm Walker.
   section_id: hero
   component: hero_block.html
-  content: Engineer, funk guitarist, surfer. Former consultant. Currently pursuing
-    a Master's in Aeronautics and Astronautics.
+  content: Well-rounded engineer. Former consultant. Currently pursuing a Master's
+    in Aeronautics and Astronautics.
 - type: portfolioblock
   template: portfolioblock
   title: Projects
