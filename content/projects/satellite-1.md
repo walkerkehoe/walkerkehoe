@@ -4,7 +4,7 @@ date = 2019-12-12T08:00:00Z
 layout = "project"
 subtitle = ""
 thumb_img_path = "/images/IMG_4840.JPG"
-title = "PocketQube"
+title = "PyCubed-1"
 
 +++
-[here](https://github.com/spacecraft-design-lab-2019)
+The PyCubed-1 satellite is a project I worked on at Stanford.   [here](https://github.com/spacecraft-design-lab-2019)
