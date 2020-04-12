@@ -36,6 +36,3 @@ fields:
   default: post
   config:
     required: true
-pages:
-- content/posts/2017-03-26-interior-designer.md
-- content/posts/2018-01-11-green.md
