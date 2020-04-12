@@ -23,7 +23,7 @@ sections:
   title: Latest from the Blog
   section_id: latest-posts
   component: posts_block.html
-  subtitle: An optional subtitle of the section
+  subtitle: Check out what I'm working on.
   num_posts_displayed: 2
   actions:
   - label: View Blog
