@@ -37,4 +37,5 @@ fields:
   config:
     required: true
 pages:
+- content/posts/electronics-delivery.md
 - content/posts/garage-rocket.md
