@@ -61,6 +61,6 @@ Our largest design constraint was budget, which manifested itself by limiting ou
 
 We chose to run fuel rich for safety reasons and arrived at an O/F ratio of 2.5 after inputting our parameters into NASA's CEA code for a range of chamber pressures.
 
-### Feed System
+### P&ID Diagram
 
 ![](/images/PID-Rev09.png)
