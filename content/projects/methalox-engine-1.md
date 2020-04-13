@@ -1,5 +1,5 @@
 +++
-content_img_path = "/images/Screen Shot 2020-04-12 at 6.18.38 PM.png"
+content_img_path = "/images/Screen Shot 2020-04-12 at 6.20.43 PM.png"
 date = 2020-03-27T07:00:00Z
 layout = "project"
 subtitle = ""
