@@ -51,4 +51,4 @@ _Initially we were planning on using liquid methane but were unable to source it
 
 <tbody> <tr> <td>Igniter</td> <td>Gas-Gas Impinging Augmented Spark Igniter</td> </tr> </tbody> 
 
-<tbody> <tr> <td>Isp</td> <td>230 sec</td> </tr> </tbody> 
+<tfooter> <tr> <td>Isp</td> <td>230 sec</td> </tr> </tfooter> 
