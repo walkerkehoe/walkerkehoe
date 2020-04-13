@@ -27,4 +27,8 @@ _Initially we were planning on using liquid methane but were unable to source it
 
 <table> 
 
-<tbody> <tr> <td>Body content 1</td> <td>Body content 2</td> </tr> </tbody> <tfoot> <tr> <td>Footer content 1</td> <td>Footer content 2</td> </tr> </tfoot> </table>
+<tbody> <tr> <td>Body content 1</td> <td>Body content 2</td> </tr> </tbody> 
+
+<tbody> <tr> <td>Body content 1</td> <td>Body content 2</td> </tr> </tbody> 
+
+<tfoot> <tr> <td>Footer content 1</td> <td>Footer content 2</td> </tr> </tfoot> </table>
