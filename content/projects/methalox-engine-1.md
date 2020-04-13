@@ -9,7 +9,7 @@ title = "Methalox Rocket Engine"
 +++
 ### Introduction
 
-In January of 2020 I began designing a liquid oxygen/methane rocket engine for a class at Stanford. The goal was to do a hot fire test demonstrating the engine's restart capabilities at the end of May. My team and I finalized the design and completed engineering drawings, but shortly after passing Critical Design Review (CDR) the project was cancelled due to a school-wide shutdown in response to COVID-19. See the [blog](https://walkerkehoe-6085c.netlify.com/blog/) for updates on how I've independently continued the project while quarantining. Keep reading below for a deep dive on the design.
+In January of 2020 I began designing a liquid oxygen/methane rocket engine for a class at Stanford. The goal was to do a hot fire test demonstrating the engine's restart capabilities at the end of May. My team and I finalized the design and completed engineering drawings, but shortly after passing Critical Design Review (CDR) the project was cancelled due to a school-wide shutdown in response to COVID-19. See the [blog](https://walkerkehoe-6085c.netlify.com/blog/) for updates on how I've independently continued the project while quarantining. Keep reading below for a deep dive on the engine design.
 
 ### Project Goal
 
