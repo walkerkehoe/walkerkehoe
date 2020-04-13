@@ -21,5 +21,6 @@ menu:
   - url: https://www.linkedin.com/in/walkerkehoe/
     name: LinkedIn
     weight: 6
-  - name: Resumé
+  - /pdf/walker_kehoe.pdf
+    name: Resumé
     weight: 5
