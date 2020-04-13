@@ -25,33 +25,33 @@ _Initially we were planning on using liquid methane but were unable to source it
 
 ### System Parameters
 
-<table> 
+<table>
 
-<tbody> <tr> <td>Oxidizer</td> <td>Liquid Oxygen</td> </tr> </tbody> 
+<tbody> <tr> <td>Oxidizer</td> <td>Liquid Oxygen</td> </tr> </tbody>
 
-<tbody> <tr> <td>Fuel</td> <td>Gaseous Methane</td> </tr> </tbody> 
+<tbody> <tr> <td>Fuel</td> <td>Gaseous Methane</td> </tr> </tbody>
 
-<tbody> <tr> <td>Chamber Pressure</td> <td>10 bar (\~150 psia)</td> </tr> </tbody> 
+<tbody> <tr> <td>Chamber Pressure</td> <td>10 bar (\~150 psia)</td> </tr> </tbody>
 
-<tbody> <tr> <td>Thrust</td> <td>640 N (\~144 lbf)</td> </tr> </tbody> 
+<tbody> <tr> <td>Thrust</td> <td>640 N (\~144 lbf)</td> </tr> </tbody>
 
-<tbody> <tr> <td>Throat Diameter</td> <td>25.4 mm (1 in)</td> </tr> </tbody> 
+<tbody> <tr> <td>Throat Diameter</td> <td>25.4 mm (1 in)</td> </tr> </tbody>
 
-<tbody> <tr> <td>O/F Ratio</td> <td>2.5</td> </tr> </tbody> 
+<tbody> <tr> <td>O/F Ratio</td> <td>2.5</td> </tr> </tbody>
 
-<tbody> <tr> <td>Ox Mass Flow Rate</td> <td>0.1986 kg/s</td> </tr> </tbody> 
+<tbody> <tr> <td>Ox Mass Flow Rate</td> <td>0.1986 kg/s</td> </tr> </tbody>
 
-<tbody> <tr> <td>Fuel Mass Flow Rate</td> <td>0.0795 kg/s</td> </tr> </tbody> 
+<tbody> <tr> <td>Fuel Mass Flow Rate</td> <td>0.0795 kg/s</td> </tr> </tbody>
 
-<tbody> <tr> <td>Ox Pressurization</td> <td>Compressed Helium</td> </tr> </tbody> 
+<tbody> <tr> <td>Ox Pressurization</td> <td>Compressed Helium</td> </tr> </tbody>
 
-<tbody> <tr> <td>Nozzle Expansion Ratio</td> <td>2.18 (sea level optimized)</td> </tr> </tbody> 
+<tbody> <tr> <td>Nozzle Expansion Ratio</td> <td>2.18 (sea level optimized)</td> </tr> </tbody>
 
-<tbody> <tr> <td>Injector</td> <td>Coaxial Liquid-Centered</td> </tr> </tbody> 
+<tbody> <tr> <td>Injector</td> <td>Coaxial Liquid-Centered</td> </tr> </tbody>
 
-<tbody> <tr> <td>Igniter</td> <td>Gas-Gas Impinging Augmented Spark Igniter</td> </tr> </tbody> 
+<tbody> <tr> <td>Igniter</td> <td>Gas-Gas Impinging Augmented Spark Igniter</td> </tr> </tbody>
 
-<tbodyr> <tr> <td>Isp</td> <td>230 sec</td> </tr> </tbody> 
+<tbodyr> <tr> <td>Isp</td> <td>230 sec</td> </tr> </tbody>
 
 </table>
 
