@@ -15,10 +15,22 @@ In January of 2020 I began designing a liquid oxygen/methane rocket engine for a
 
 Hot fire test(s) demonstrating startup, shutdown and restart of a liquid oxygen/gaseous methane rocket engine.
 
-Stretch Goals:
+**Stretch Goals**
 
 * Stable combustion (defined as a chamber pressure oscillation <5% from mean)
 * Measure C* efficiency
 * Image engine startup and reignition
 
 _Initially we were planning on using liquid methane but were unable to source it._
+
+### System Parameters
+
+<table> 
+
+<caption>Table with thead, tfoot, and tbody</caption> 
+
+<thead> 
+
+<tr> <th>Header content 1</th> <th>Header content 2</th> </tr> 
+
+</thead> <tbody> <tr> <td>Body content 1</td> <td>Body content 2</td> </tr> </tbody> <tfoot> <tr> <td>Footer content 1</td> <td>Footer content 2</td> </tr> </tfoot> </table>
