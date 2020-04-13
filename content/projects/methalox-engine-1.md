@@ -54,3 +54,9 @@ _Initially we were planning on using liquid methane but were unable to source it
 <tbodyr> <tr> <td>Isp</td> <td>230 sec</td> </tr> </tbody> 
 
 </table>
+
+Our largest design constraint was budget, which manifested itself by limiting our choice of feed line components and effectively put an upper bound on the mass flow rate we could achieve.
+
+![](/images/Screen Shot 2020-04-12 at 5.45.39 PM.png)
+
+We chose to run fuel rich for safety reasons and arrived at an O/F ratio of 2.5 after inputting our parameters into NASA's CEA program.
