@@ -59,4 +59,4 @@ Our largest design constraint was budget, which manifested itself by limiting ou
 
 ![](/images/Screen Shot 2020-04-12 at 5.45.39 PM.png)
 
-We chose to run fuel rich for safety reasons and arrived at an O/F ratio of 2.5 after inputting our parameters into NASA's CEA program.
+We chose to run fuel rich for safety reasons and arrived at an O/F ratio of 2.5 after inputting our parameters into NASA's CEA code.
