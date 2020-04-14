@@ -131,3 +131,11 @@ With our components identified, we were able to run simulations to obtain a pres
 ### Nozzle and Combustion Chamber
 
 We chose high density graphite as the material for our nozzle and 6061 Aluminum protected by a canvas phenolic insert for the combustion chamber. We were more concerned about machinability than optimizing performance so we went with a conical nozzle shape instead of a Rao design. The combustion chamber was clamped in place by flange plates and tie rods and we used a notched bolt design for overpressure relief on the combustion chamber so that if a failure did occur, we knew in which direction the engine would disassemble. We made sure that the notched bolts had the lowest factor of safety in our design.
+
+### Injector
+
+The injector was the most geometrically complex component in our design and was going to be manufactured by direct metal laser sintering of inconel 718. We chose this superalloy for its high strength, high temperature and oxidation resistance properties. 
+
+The injector featured 5 coaxial elements spaced evenly around a constant velocity manifold. The idea behind this is that as propellant is tapped off, the cross-section shrinks to maintain fluid velocity. We were initially planning on having 10 injector elements that swirled the oxygen but decided to reduce the complexity for easier printability. Here are side by side images of the fluid volume of the initial and updated injector designs: liquid oxygen is green and gaseous methane is red.
+
+### Igniter
