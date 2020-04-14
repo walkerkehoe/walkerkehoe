@@ -102,7 +102,7 @@ LOx System Specifics
 * BVMO1: Fill control for LOx, to allow full remote control of run tank during chill-in
 * SC: Load cell for LOx load monitoring
 * SVMO1: LOx run tank relief & vent - could not find cryo relief valves with set pressure >1000 psi
-* SVMO2: Line vent for chill-in & safing, to prevent trapped cryo volume 
+* SVMO2: Line vent for chill-in & safing, to prevent trapped cryo volume
 
 Helium System Specifics
 
@@ -123,3 +123,5 @@ Instrumentation
   * Ignition check
 
 With our components identified, we were able to run simulations to obtain a pressure ladder for the feed system. See the image below for the main injector pressure simulation.
+
+![](/images/Screen Shot 2020-04-14 at 8.28.18 AM.png)
