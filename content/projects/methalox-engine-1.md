@@ -125,3 +125,9 @@ Instrumentation
 With our components identified, we were able to run simulations to obtain a pressure ladder for the feed system. See the image below for the main injector pressure simulation.
 
 ![](/images/Screen Shot 2020-04-14 at 8.28.18 AM.png)
+
+### Cavitating Venturi
+
+### Nozzle and Combustion Chamber
+
+We chose high density graphite as the material for our nozzle and 6061 Aluminum protected by a canvas phenolic insert for the combustion chamber. We were more concerned about machinability than optimizing performance so we went with a conical nozzle shape instead of a Rao design. The combustion chamber was clamped in place by flange plates and tie rods and we used a notched bolt design for overpressure relief on the combustion chamber so that if a failure did occur, we knew in which direction the engine would disassemble. We made sure that the notched bolts had the lowest factor of safety in our design.
