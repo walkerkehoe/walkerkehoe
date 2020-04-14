@@ -136,6 +136,6 @@ We chose high density graphite as the material for our nozzle and 6061 Aluminum 
 
 The injector was the most geometrically complex component in our design and was going to be manufactured by direct metal laser sintering of inconel 718. We chose this superalloy for its high strength, high temperature and oxidation resistance properties. 
 
-The injector featured 5 coaxial elements spaced evenly around a constant velocity manifold. The idea behind this is that as propellant is tapped off, the cross-section shrinks to maintain fluid velocity. We were initially planning on having 10 injector elements that swirled the oxygen but decided to reduce the complexity for easier printability. Here are side by side images of the fluid volume of the initial and updated injector designs: liquid oxygen is green and gaseous methane is red.
+The injector featured 5 coaxial elements spaced evenly around a constant velocity manifold. The idea behind this is as propellant is tapped off, the cross-section shrinks to maintain fluid velocity. We were initially planning on having 10 injector elements that swirled the oxygen but decided to reduce the complexity for easier printability. Here are side by side images of the fluid volume of the initial and updated injector designs: liquid oxygen is green and gaseous methane is red.
 
 ### Igniter
