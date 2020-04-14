@@ -9,7 +9,7 @@ title = "Methalox Rocket Engine"
 +++
 ### Introduction
 
-In January of 2020 I began designing a liquid oxygen/methane rocket engine for a class at Stanford. The goal was to do a hot fire test demonstrating the engine's restart capabilities at the end of May. My team and I finalized the design and completed engineering drawings, but shortly after passing Critical Design Review (CDR) the project was cancelled due to a school-wide shutdown in response to COVID-19. See the [blog](https://walkerkehoe-6085c.netlify.com/blog/) for updates on how I've independently continued the project while quarantining. Keep reading below for a deep dive on the engine design.
+In January of 2020 I began designing a liquid oxygen/methane rocket engine for a class at Stanford. The goal was to do a hot fire test demonstrating the engine's restart capabilities at the end of May. My team and I finalized the design and completed engineering drawings, but shortly after passing Critical Design Review (CDR) the project was cancelled due to a school-wide shutdown in response to COVID-19. See the [blog](https://www.walkerkehoe.com/blog/) for updates on how I've independently continued the project while quarantining. Keep reading below for a deep dive on the engine design.
 
 ### Project Goal
 
@@ -134,7 +134,7 @@ We chose high density graphite as the material for our nozzle and 6061 Aluminum 
 
 ### Injector
 
-The injector was the most geometrically complex component in our design and was going to be manufactured by direct metal laser sintering of inconel 718. We chose this superalloy for its high strength, high temperature and oxidation resistance properties. 
+The injector was the most geometrically complex component in our design and was going to be manufactured by direct metal laser sintering of inconel 718. We chose this superalloy for its high strength, high temperature and oxidation resistance properties.
 
 The injector featured 5 coaxial elements spaced evenly around a constant velocity manifold. The idea behind this is as propellant is tapped off, the cross-section shrinks to maintain fluid velocity. We were initially planning on having 10 injector elements that swirled the oxygen but decided to reduce the complexity for easier printability. Here are side by side images of the fluid volume of the initial and updated injector designs: liquid oxygen is green and gaseous methane is red.
 
