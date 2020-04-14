@@ -1,15 +1,5 @@
 {
   "links": [
-    {
-      "type": "linkedin",
-      "title": "LinkedIn",
-      "icon": "fa-linkedin",
-      "url": "https://www.linkedin.com/in/walkerkehoe/"
-    },
-    {
-      "title": "Github",
-      "icon": "fa-github",
-      "url": "https://github.com/walkerkehoe"
-    }
+
   ]
 }
