@@ -134,9 +134,13 @@ All of our feed system components could be sourced COTS, with the exception of t
 
 ### Nozzle and Combustion Chamber
 
+![](/images/chamber.png)
+
 We chose high density graphite as the material for our nozzle and 6061 Aluminum protected by a canvas phenolic insert for the combustion chamber. We were more concerned about machinability than optimizing performance so we went with a conical nozzle shape instead of a Rao design. The combustion chamber was clamped in place by flange plates and tie rods and we used a notched bolt design for overpressure relief on the combustion chamber so that if a failure did occur, we knew in which direction the engine would disassemble. We made sure that the notched bolts had the lowest factor of safety in our design.
 
 ### Injector
+
+![](/images/injector3.png)
 
 The injector was the most geometrically complex component in our design and was going to be manufactured by direct metal laser sintering of inconel 718. We chose this superalloy for its high strength, high temperature and oxidation resistance properties.
 
