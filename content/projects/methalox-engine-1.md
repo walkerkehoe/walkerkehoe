@@ -139,3 +139,5 @@ The injector was the most geometrically complex component in our design and was 
 The injector featured 5 coaxial elements spaced evenly around a constant velocity manifold. The idea behind this is as propellant is tapped off, the cross-section shrinks to maintain fluid velocity. We were initially planning on having 10 injector elements that swirled the oxygen but decided to reduce the complexity for easier printability. Here are side by side images of the fluid volume of the initial and updated injector designs: liquid oxygen is green and gaseous methane is red.
 
 ### Igniter
+
+Our mantra for the igniter was simplicity and reliability. 
