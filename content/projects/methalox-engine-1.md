@@ -148,4 +148,6 @@ The injector featured 5 coaxial elements spaced evenly around a constant velocit
 
 ### Igniter
 
+![](/images/igniter.png)
+
 The main requirement for the igniter was that it had to be capable of reliably restarting the engine. Off the bat this narrowed down our options by eliminating ignition methods like a pyrogen igniter. We also weren't keen on introducing additional chemicals into our system so hypergolics were out too. Laser ignition could be cool...but the simplest and most reliable choice for us seemed to be a gas-gas spark torch igniter, otherwise known as an augmented spark igniter.
