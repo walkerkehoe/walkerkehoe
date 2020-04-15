@@ -122,13 +122,13 @@ Instrumentation
   * Thrust calculation
   * Ignition check
 
-With our components identified, we were able to run simulations to obtain a pressure ladder for the feed system. See the image below for the main injector pressure simulation.
+With our components identified, we were able to build a simulation to obtain a pressure ladder for the feed system. See the image below for the main injector pressure simulation.
 
 ![](/images/Screen Shot 2020-04-14 at 8.28.18 AM.png)
 
 ### Cavitating Venturi
 
-All of our feed system components could be sourced COTS, with the exception of the cavitating venturi in the liquid oxygen line (ORMO in the P&ID diagram). 
+All of our feed system components could be sourced COTS, with the exception of the cavitating venturi in the liquid oxygen line (ORMO in the P&ID diagram).
 
 ### Nozzle and Combustion Chamber
 
