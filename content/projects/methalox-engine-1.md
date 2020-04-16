@@ -130,7 +130,7 @@ With our components identified, we were able to build a simulation to obtain a p
 
 ### ![](/images/cv.png)
 
-All of our feed system components could be sourced COTS, with the exception of the cavitating venturi in the liquid oxygen line (ORMO in the P&ID diagram).
+All of our feed system components could be sourced COTS, with the exception of the cavitating venturi in the liquid oxygen line (ORMO in the P&ID diagram). A cavitating venturi is a type of flow metering device that can achieve a constant mass flow rate independently of downstream pressure fluctuations.
 
 ### Nozzle and Combustion Chamber
 
