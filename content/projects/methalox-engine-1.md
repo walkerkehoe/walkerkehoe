@@ -122,7 +122,7 @@ Instrumentation
   * Thrust calculation
   * Ignition check
 
-With our components identified, we were able to build a simulation to obtain a pressure ladder for the feed system. See the image below for the main injector pressure simulation.
+With our components identified, we were able to build a simulation to obtain a pressure ladder for the feed system. See the image below for the main injector pressure simulation. _I'm planning on doing a more in-depth blog post about this so stay tuned!_
 
 ![](/images/Screen Shot 2020-04-14 at 8.28.18 AM.png)
 
