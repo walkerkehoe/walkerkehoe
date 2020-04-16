@@ -136,7 +136,7 @@ All of our feed system components could be sourced COTS, with the exception of t
 
 ![](/images/chamber.png)
 
-We chose high density graphite as the material for our nozzle and 6061 Aluminum protected by a canvas phenolic insert for the combustion chamber. We were more concerned about machinability than optimizing performance so we went with a conical nozzle shape instead of a Rao design. The combustion chamber is clamped in place by flange plates and tie rods and we used a notched bolt design for overpressure relief on the combustion chamber so that if a failure did occur, we knew in which direction the engine would disassemble. We made sure that the notched bolts had the lowest factor of safety in our design.   
+We chose high density graphite as the material for our nozzle and 6061 Aluminum protected by an ablative insert (canvas phenolic) for the combustion chamber. We were more concerned about machinability than optimizing performance so we went with a conical nozzle shape instead of a Rao design. The combustion chamber is clamped in place by flange plates and tie rods and we used a notched bolt design for overpressure relief on the combustion chamber so that if a failure did occur, we knew in which direction the engine would disassemble. We made sure that the notched bolts had the lowest factor of safety in our design.   
 ![](/images/Screen Shot 2020-04-16 at 10.28.11 AM.png)
 
 ### Injector
