@@ -7,7 +7,7 @@ params:
   header:
     title: Walker Kehoe
     has_nav: true
-    logo_img: ''
+    logo_img: "/images/Presentation1-2.png"
   footer:
     content: "&copy; Walker Kehoe. All rights reserved."
     links: []
@@ -18,12 +18,9 @@ disableKinds:
 - taxonomyTerm
 menu:
   main:
-  - url: https://github.com/walkerkehoe
-    name: GitHub
+  - url: https://www.linkedin.com/in/walkerkehoe/
+    name: LinkedIn
     weight: 6
   - url: "/pdf/walker_kehoe.pdf"
     name: Resumé
-    weight: 4
-  - url: https://www.linkedin.com/in/walkerkehoe/
-    name: LinkedIn
     weight: 5
