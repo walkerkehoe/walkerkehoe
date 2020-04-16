@@ -153,4 +153,4 @@ The injector featured 5 coaxial elements spaced evenly around a constant velocit
 
 ![](/images/igniter.png)
 
-There are many ways to ignite a rocket engine, from pyrotechnics to hypergolic fluids to lasers. The main requirement for our igniter was that it had to be capable of reliably restarting the engine, so right from the start this narrowed down our options. 
+There are many ways to ignite a rocket engine, from pyrotechnics to hypergolic fluids to lasers. The main requirement for our igniter was that it had to be capable of reliably restarting the engine, so right from the beginning this narrowed down our options. 
