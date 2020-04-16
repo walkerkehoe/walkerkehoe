@@ -154,3 +154,9 @@ The injector featured 5 coaxial elements spaced evenly around a constant velocit
 ![](/images/igniter.png)
 
 There are many ways to ignite a rocket engine, from pyrotechnics to hypergolic fluids to lasers. The main requirement for our igniter was that it had to be capable of reliably restarting the engine, so right from the beginning this narrowed down our options. 
+
+Our plan for the igniter was to build and test it as quickly as possible and then iterate if necessary. This would ensure that we could achieve reliable ignition during full engine tests while also providing the opportunity to address any issues with our feed system and avionics early on. We chose a gas-gas spark torch igniter, otherwise known as an augmented spark igniter (ASI) because it would be easy and cheap to machine, and could use the same propellants as the main combustion chamber (though we ended up adding a bottle of gaseous oxygen to the P&ID for simplicity).
+
+See the image below of a partially machined version of the igniter with spark plug installed (and notched bolts) that I was able to make before school shut down. The material is 316 stainless steel.
+
+![](/images/IMG_4577.JPG)
