@@ -1,5 +1,5 @@
 +++
-content_img_path = "/images/IMG_5032 2.jpg"
+content_img_path = "/images/IMG_4840-1.JPG"
 date = 2019-12-11T08:00:00Z
 layout = "project"
 subtitle = ""
