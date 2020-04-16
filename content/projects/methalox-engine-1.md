@@ -130,7 +130,7 @@ With our components identified, we were able to build a simulation to obtain a p
 
 ### ![](/images/cv.png)
 
-All of our feed system components could be sourced COTS, with the exception of the cavitating venturi in the liquid oxygen line (ORMO in the P&ID diagram). A cavitating venturi is a type of flow metering device that can provide a constant mass flow rate independently of downstream pressure fluctuations. This is achieved through a converging-diverging nozzle geometry that produces a phase change and chokes the flow. Because cavitating venturis are specific to mass flow rates and temperatures, we needed to design a custom one ourselves. You can see a section view of our venturi assembly, with Swagelok fittings for inlet, outlet and pressure transducers, above.
+All of our feed system components could be sourced COTS, with the exception of the cavitating venturi in the liquid oxygen line (ORMO in the P&ID diagram). A cavitating venturi is a type of flow metering device that can provide a constant mass flow rate independently of downstream pressure fluctuations. This is achieved through a converging-diverging nozzle geometry that produces a phase change and chokes the flow. Because cavitating venturis are specific to mass flow rates and temperatures, we needed to design a custom one ourselves. You can see a section view of our venturi assembly, with SAE O-ring fittings for inlet, outlet and pressure transducers, above.
 
 ### Nozzle and Combustion Chamber
 
