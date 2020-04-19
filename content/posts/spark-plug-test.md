@@ -8,4 +8,4 @@ thumb_img_path = "/images/IMG_5252.PNG"
 title = "Spark Plug Test"
 
 +++
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/dS2SdbxX1wM](https://www.youtube.com/embed/dS2SdbxX1wM "https://www.youtube.com/embed/dS2SdbxX1wM")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+My RCEXL ignition kit arrived in the mail yesterday so I rigged up a quick test to see if I could get it to spark.
