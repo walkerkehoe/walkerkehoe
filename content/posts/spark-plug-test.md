@@ -1,10 +1,10 @@
 +++
-content_img_path = "/images/IMG_5252.PNG"
+content_img_path = "/images/sparkplug.jpg"
 date = 2020-04-19T19:00:00Z
 excerpt = ""
 layout = "post"
 subtitle = ""
-thumb_img_path = "/images/IMG_5252.PNG"
+thumb_img_path = "/images/sparkplug.jpg"
 title = "Spark Plug Test"
 
 +++
