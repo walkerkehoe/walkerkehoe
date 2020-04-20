@@ -15,6 +15,5 @@ I began on this project by machining key components of the rocket that had been 
 
 * Reduce weight
 * Reduce cost
-* Improve manufacturability (notice the chatter marks on the part pictured above)
-* Make assembly easier
+* Improve manufacturability (notice the chatter marks on the part pictured above) and make assembly easier
 * Reduce time between tests for quicker design iterations
