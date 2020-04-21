@@ -18,9 +18,12 @@ disableKinds:
 - taxonomyTerm
 menu:
   main:
-  - url: https://www.linkedin.com/in/walkerkehoe/
-    name: LinkedIn
+  - url: https://github.com/walkerkehoe
+    name: GitHub
     weight: 6
   - url: "/pdf/walker_kehoe.pdf"
     name: Resumé
+    weight: 4
+  - url: https://www.linkedin.com/in/walkerkehoe/
+    name: LinkedIn
     weight: 5
