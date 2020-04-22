@@ -23,15 +23,19 @@ I began on this project by machining key components of the rocket that had been 
 
 ### Reducing Weight
 
-As a competition rocket, every gram counts, and though the original design was optimized to be as light as possible, a lot was still unknown until after the hot fire tests, which provided real data to better characterize the rocket. The results highlighted parts that could be made even lighter, either through a change in geometrical design or material selection, or even removed altogether. For example, the original injector was manufactured through direct metal laser sintering of Inconel 718. This superalloy, chosen for its high strength and thermal properties, is also quite heavy. But perhaps we could achieve the same pressure and thermal loads through a different design, perhaps with a creative trick like pairing a highly conductive metal with regenerative cooling. 
+As a competition rocket, every gram counts, and though the original design was optimized to be as light as possible, a lot was still unknown until after the hot fire tests, which provided real data to better characterize the rocket. The results highlighted parts that could be made even lighter, either through a change in geometrical design or material selection, or even removed altogether. For example, the original injector was manufactured through direct metal laser sintering of Inconel 718. This superalloy, chosen for its high strength and thermal properties, is also quite heavy. But perhaps we could achieve the same pressure and thermal loads through a different design, maybe with a creative trick like pairing a highly conductive metal with regenerative cooling.
 
-Another area that we realized carried extra weight was the pyrovalve assembly. In the original design, 
+Another area that we realized carried extra weight was the pyrovalve assembly. In the original design, the pyrovalves
 
 ### Reducing Cost
 
-This often went hand in hand with weight reduction--Inconel is one of the more expensive materials to 3D print--
+This often went hand in hand with weight reduction--Inconel is one of the more expensive materials to 3D print--so the strategy here involved evaluating if we could change to cheaper metals while trying to also reduce overall part count.
 
 ### Improving Manufacturability
+
+Many of the components that had been destroyed in the hot fire test anomaly proved difficult to machine again. A few of the parts had dimensions that were not matched well to the dimensions of the aluminum stock we could get, leading to a lot of time spent turning down diameters. Further, the requirement that the tanks needed to be hydrostatically tested to a safety factor of 1.5 (1300 psi) meant the threads had to be very tightly toleranced, which was difficult to accomplish on manual tools in the student machine shop. 
+
+All of this led to a brainstorm
 
 ### Reducing Time Between Tests
 
