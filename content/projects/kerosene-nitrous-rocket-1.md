@@ -25,7 +25,9 @@ I began on this project by machining key components of the rocket that had been 
 
 As a competition rocket, every gram counts, and though the original design was optimized to be as light as possible, a lot was still unknown until after the hot fire tests, which provided real data to better characterize the rocket. The results highlighted parts that could be made even lighter, either through a change in geometrical design or material selection, or even removed altogether. For example, the original injector was manufactured through direct metal laser sintering of Inconel 718. This superalloy, chosen for its high strength and thermal properties, is also quite heavy. But perhaps we could achieve the same pressure and thermal loads through a different design, maybe with a creative trick like pairing a highly conductive metal with regenerative cooling.
 
-Another area that we realized carried extra weight was the pyrovalve assembly. In the original design, the pyrovalves
+![](/images/pyrovalves.jpg)
+
+Another area that we realized had extra mass was the pyrovalve assembly (see the image above). The original design had extra height so that fittings could be threaded into it, but after switching to a face-seal we could make things shorter.
 
 ### Reducing Cost
 
@@ -33,10 +35,12 @@ This often went hand in hand with weight reduction--Inconel is one of the more e
 
 ### Improving Manufacturability
 
-Many of the components that had been destroyed in the hot fire test anomaly proved difficult to machine again. A few of the parts had dimensions that were not matched well to the dimensions of the aluminum stock we could get, leading to a lot of time spent turning down diameters. Further, the requirement that the tanks needed to be hydrostatically tested to a safety factor of 1.5 (1300 psi) meant the threads had to be very tightly toleranced, which was difficult to accomplish on manual tools in the student machine shop. 
+Many of the components that had been destroyed in the hot fire test anomaly proved difficult to machine again. A few of the parts had dimensions that were not matched well to the dimensions of the aluminum stock we could get, leading to a lot of time spent turning down diameters. Further, the requirement that the tanks needed to be hydrostatically tested to a safety factor of 2 (1300 psi) meant the threads had to be very tightly toleranced, which was difficult to accomplish on manual tools in the student machine shop.
 
-All of this led to a brainstorm
+All of this led to a brainstorming session in which we decided to combine a few of the components into a single, additively manufactured part and pursue a welded tank design. 
 
 ### Reducing Time Between Tests
+
+I am a big proponent of iterative design
 
 ### Throttling
