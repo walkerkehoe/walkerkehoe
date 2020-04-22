@@ -41,6 +41,8 @@ All of this led to a brainstorming session in which we decided to combine a few 
 
 ### Reducing Time Between Tests
 
-I am a big proponent of iterative design, especially on rocket projects where test data is so valuable in understanding the system. 
+I am a big proponent of iterative design, especially on rocket projects where test data is so valuable in characterizing the system. Once we identified that the flight tanks were the limiting factor holding back our hot fire test schedule, we decided to develop a ground test rig with COTS tanks. This system enables us to have a much higher testing frequency to get data more quickly on design changes.
 
 ### Throttling
+
+The FAR Mars competition is scored by to how close teams can get to 45,000 ft, with points taken away for overshoot. With this in mind, we decided to look into a throttling feature for our rocket so that it could (hopefully) hit its 45,000 foot apogee perfectly.
