@@ -41,6 +41,6 @@ All of this led to a brainstorming session in which we decided to combine a few 
 
 ### Reducing Time Between Tests
 
-I am a big proponent of iterative design, especially on rocket projects where test data is so valuable and key to understanding the system. 
+I am a big proponent of iterative design, especially on rocket projects where test data is so valuable in understanding the system. 
 
 ### Throttling
