@@ -38,6 +38,7 @@ fields:
     required: true
 pages:
 - content/posts/electronics-delivery.md
+- content/posts/feed-system-simulation.md
 - content/posts/garage-rocket.md
 - content/posts/igniter-fitting-angle.md
 - content/posts/protolabs-delivery.md
