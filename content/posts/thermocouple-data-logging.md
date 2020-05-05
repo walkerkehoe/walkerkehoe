@@ -33,3 +33,7 @@ My soldering octopus came in the mail today, along with the thermocouple connect
 <tbody> <tr> <td>24.63</td> <td>29.25</td> </tr> </tbody>
 
 </table>
+
+The column on the left is the temperature at the cold junction in Celsius and and the column on the right is the hot junction (I put my hand on the end of the thermocouple to warm it up). The time increment between each measurement was 500 milliseconds and as I write this I'm realizing I should have added a third column to log time...
+
+Right off the bat, it seems like the thermocouple is pretty slow to respond to changes in temperature, which makes me wonder if I will get any useful information out of a test that is only going to last for a couple seconds. After doing a quick Google search it turns out that the style (grounded, non-grounded, exposed wire) and diameter of the sheath influence response time. I went with non-grounded (a requirement of the amplifier) and a 1/4" diameter to match the tubing size. I should have picked something much smaller, like 1/8" and used a reducing tee. 
