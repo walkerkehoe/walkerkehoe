@@ -38,4 +38,6 @@ The column on the left is the temperature at the cold junction in Celsius and th
 
 Right off the bat, it seems like the thermocouple is pretty slow to respond to changes in temperature, which makes me wonder if I will get any useful information out of a test that is only going to last for a couple seconds. 
 
-After doing a quick Google search it turns out that the style (grounded, non-grounded, exposed wire) and diameter of the sheath influence response time. I went with non-grounded (a requirement of the amplifier) and a 1/4" diameter to match the tubing size. I should have picked something much smaller, like 1/16" and used a reducer. Feed line temperature is a nice to have for calculating mass flow and if the response time becomes an issue I can spend the $120 on a new setup.
+After doing a quick Google search it turns out that the style (grounded, non-grounded, exposed wire) and diameter of the sheath influence response time. I went with non-grounded (a requirement of the amplifier) and a 1/4" diameter to match the tubing size. I should have picked something much smaller, like 1/16" and used a reducer. 
+
+Feed line temperature is a nice to have for calculating mass flow and if the response time becomes an issue I can spend the $120 on a new setup. I could also cold flow the propellants individually to get the temperature in each line.
