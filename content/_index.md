@@ -6,8 +6,7 @@ sections:
   title: Hi, I'm Walker.
   section_id: hero
   component: hero_block.html
-  content: Well-rounded engineer. Former consultant. Currently pursuing a Master's
-    in Aeronautics and Astronautics.
+  content: 'Well-rounded engineer. Former consultant. '
 - type: portfolioblock
   template: portfolioblock
   title: Projects
